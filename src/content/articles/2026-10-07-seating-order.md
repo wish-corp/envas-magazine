@@ -66,3 +66,7 @@ WEB 席次表の envas なら、ゲストをタップしてテーブルをタッ
 席次表の作り方はヘルプページで紹介しています。
 
 [https://help.envas.jp/seating-chart/](https://help.envas.jp/seating-chart/)
+
+席次表の準備全体の流れは、こちらの記事にまとめています。
+
+[席次表の準備はいつから？結婚式までのスケジュールと進め方](/articles/2026-10-07-seating-chart-schedule/)
