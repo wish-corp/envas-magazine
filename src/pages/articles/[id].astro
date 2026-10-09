@@ -2,6 +2,7 @@
 import { render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArchiveNav from '../../components/ArchiveNav.astro';
+import ArticleCta from '../../components/ArticleCta.astro';
 import NeighborNav from '../../components/NeighborNav.astro';
 import PublishedAt from '../../components/PublishedAt.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
@@ -63,6 +64,8 @@ const titleId = unique(slugify(entry.data.title), new Set());
         <div class="prose">
           <Content />
         </div>
+
+        <ArticleCta articleId={entry.id} />
 
         <NeighborNav newer={newer} older={older} />
       </article>

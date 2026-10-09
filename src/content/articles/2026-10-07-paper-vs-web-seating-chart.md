@@ -62,8 +62,6 @@ WEB 席次表の envas は、席次表とおふたりのプロフィールブッ
 
 席次表の編集とプレビューは無料なので、まずは気軽に作ってみてください。
 
-[https://envas.jp/](https://envas.jp/)
-
 席次表の画像のダウンロードについては、ヘルプページで紹介しています。
 
 [https://help.envas.jp/seating-chart-image/](https://help.envas.jp/seating-chart-image/)
