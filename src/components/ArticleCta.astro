@@ -1,11 +1,12 @@
 ---
+import { SERVICE_URL } from '../consts';
+
 interface Props {
   articleId: string;
 }
 
 const { articleId } = Astro.props;
 
-const SERVICE_URL = 'https://envas.jp/';
 const UTM_SOURCE = 'magazine';
 const UTM_MEDIUM = 'referral';
 const UTM_CAMPAIGN = 'article_cta';
